@@ -1,3 +1,9 @@
+---
+title: The Noise
+layout: home
+---
+
+
 Could you imagine
 In your own way
 The noises that you’d hear
