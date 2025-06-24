@@ -1,6 +1,6 @@
 ---
 title: Jackpot
-layout: home
+layout: page
 ---
 
 
