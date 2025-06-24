@@ -60,7 +60,7 @@ What was it my wife had said? I had just retold the entire story, yet I’m stru
 “Needless to say, it’s not like I have any right to hold you back. You’re free to move down whichever path you see fit, towards self-destruction if that’s what you fancy. I’m simply here to offer you another path to choose.”  
 If only we hadn’t gone on this trip. If only I hadn’t let that useless drivel leave my mouth. If only…  
 “What if you could see your wife again? Oh, I see that got your attention. Yes, there is a way for you to see her again, but only in your memories. You might think I’m joking. Let’s just call it a ‘new form of revolutionary brain surgery’. You will go back and relive the memory most integral and precious to who you are now. I won’t reveal more, though, unless you want to go through with it. Will you return to the world and thus also return to yourself? Or will you go back, if not to find some form of courage or closure then to simply relive the happiness you once had?”  
-… Have you made your decision? Okay, now close your eyes and repeat after me:
+… Have you made your decision? Okay, now close your eyes and repeat after me:  
 “Stood between the canary and the crow,  
 I made my decision between two paths.  
 From beneath the crow, I heard it utter:  
