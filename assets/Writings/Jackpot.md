@@ -6,8 +6,7 @@ layout: home
 
 
 
-There it was at the center
-
+There it was at the center  
 Floating,
 
 A blue, bleeding pool of
