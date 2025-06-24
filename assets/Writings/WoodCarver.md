@@ -1,6 +1,7 @@
 ---
 title: The Woodcarver
 layout: home
+parent: Short Stories
 ---
 
 In a small house nestled in a small forest, all on top of a small hill, a woodcarver sat carving wood. He’d done it since he was a boy; his father had done it since he was a boy and so it was all he knew. Very few people visited the hill, much less the forest and even less the house, but he carved wood all the same. He carved well, after all, and all those who did visit were sure to come again when they wanted wood carved; there was always wood in the forest to be carved. It was enough and in this practice he was adroit, he did not complain. He carved from dawn till dusk and at each day's end he would meet his bed to sleep much like the logs resting around his shop. Sprouting up from his bed the next morning he would water his garden, sit himself, and begin carving wood all the same. Every now and then a customer would come, one he’d recognize, and he’d carve for them. The extent of their relationship was just so, and not some other way. The woodcarver simply carved wood, and the customers simply bought the wood. Then, appreciating the garden on their way out, the customers would leave satisfied and the wood would leave with them, now carved. The woodcarver did not mind; the woodcarver did not think much of it, and so he did not mind. Thus, the woodcarver carved more wood. 
