@@ -1,3 +1,10 @@
+---
+title: Repeat After Me
+layout: home
+---
+
+
+
 “Stood between the canary and the crow,
 I made my decision between two paths.
 From beneath the crow, I heard it utter:
