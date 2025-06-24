@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Gino Manea's Writing Portfolio
 layout: home
 ---
 
