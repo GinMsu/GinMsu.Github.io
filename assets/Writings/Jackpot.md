@@ -7,10 +7,15 @@ layout: home
 
 
 There it was at the center
+
 Floating,
+
 A blue, bleeding pool of
+
 Dust, converging
+
 Matter incarnate.
+
 In a void.
 
 Houses that lined the road for miles and no one was outside.
