@@ -9,5 +9,3 @@ an idea and developing it into its own self contained world. Sadly, this has res
 yet still feel like they're lacking. Still, I constantly toss around concepts and thoughts in my head that inevitably result in my further exploration of them through writing, and this is something
 I ultimately enjoy.  
 My Short Stories are as follows:
-- The Noise
-- Jackpot
