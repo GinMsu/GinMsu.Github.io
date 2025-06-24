@@ -1,3 +1,11 @@
+---
+title: Jackpot
+layout: home
+---
+
+
+
+
 There it was at the center
 Floating,
 A blue, bleeding pool of
