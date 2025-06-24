@@ -4,9 +4,9 @@ theme: just-the-docs
 
 url: https://GinMsu.github.io
 
-logo: "/assets/Raven Nation.png"
+logo: "/assets/Images/Raven Nation.png"
 
 color_scheme: dark
 
 aux_links:
-  Template Repository: "/assets/Raven Nation.png"
+  Template Repository: https://github.com/just-the-docs/just-the-docs
