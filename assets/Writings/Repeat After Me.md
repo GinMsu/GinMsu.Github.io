@@ -1,6 +1,7 @@
 ---
 title: Repeat After Me
 layout: home
+parent: Short Stories
 ---
 
 
